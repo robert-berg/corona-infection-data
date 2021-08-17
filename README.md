@@ -1,4 +1,4 @@
-# Java program for visualizing Corona infection data
+# Java program visualizing Corona infection data
 ![](/output/DE.png)
 <ul>
     <li>Generates PNG files with graphs based on the official WHO data</li>
