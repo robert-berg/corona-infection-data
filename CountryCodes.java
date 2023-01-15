@@ -41,11 +41,6 @@ public class CountryCodes {
                     }
 
                 }
-
-                // for (CountryCode c : countryCodesList) {
-                // System.out.println(c.getCode());
-                // }
-
             }
         } catch (Exception e) {
             System.out.println("Fehler beim Lesen der Datei");
