@@ -1,0 +1,51 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.eclipse
+
+# sbt
+target/
+lib_managed/
+
+# Visual Studio Code
+.vscode/
+.bsp
+
+# Scala
+*.class
+*.log
+
+#System Files
+.DS_Store
+Thumbs.db
+
+
+# Play Framework
+/target/
+.metals
+.bloop
+
+/version.conf
+logs
+target
+tmp
+.history
+dist
+/out
+/RUNNING_PID
+/.vagrant
+
+build
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.gradle
+/.project
+/.settings
+/RUNNING_PID
