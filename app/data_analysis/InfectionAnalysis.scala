@@ -33,10 +33,10 @@ class InfectionAnalysis(
     */
   def getDailyInfections: Array[Int] = il.getInfections.toArray.map(_.toInt)
 
-  /** Returns an array of 7-day rolling averages of infection data per 100,000
+  /** Returns an array of 7-day incidences of infection data per 100,000
     * people.
     * @return
-    *   An array of doubles representing the 7-day rolling averages.
+    *   An array of doubles representing the 7-day incidences.
     */
   def get7di: Array[Double] = {
     val numDatapoints = getNumDatapoints
