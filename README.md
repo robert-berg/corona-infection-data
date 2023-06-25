@@ -24,7 +24,7 @@ Daily infections
 
 ![/screenshots/dailyInfections.png](/screenshots/dailyInfections.png)
 
-## Components overview
+## Project overview
 
 **Data Analysis**  [/app/data_analysis/](/app/data_analysis/) The `data_analysis` package provides classes for analyzing Covid19 pandemic data, including `CountryCode`, `CountryCodes`, `PopulationData`, and `CountryIncidenceMap`, which allow users to retrieve information such as population, incidence rates, and ISO codes for different countries.
 
