@@ -77,7 +77,3 @@ To build and run the project:
 ## Deployment
 
 The root directory contains the `Procfile` for deploying the application on Heroku
-
-## Contributors
-
-Robert Berg - [GitHub](https://github.com/robert-berg)
