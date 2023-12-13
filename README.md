@@ -1,6 +1,6 @@
 # Corona Infection Data
 
-This project is a web application written in Scala that analyzes official COVID-19 infections data from the World Health Organization.
+This project is a Play application that analyzes COVID-19 infections data across various countries, utilizing official data from the World Health Organization spanning from January 3, 2020 to January 31, 2021.
 
 ## Live Demo
 
