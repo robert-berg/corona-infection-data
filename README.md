@@ -26,10 +26,9 @@ Located in `java_version/output/`:
 
 ### C Version Diagrams
 Located in `c_version/plots/`:
-<div>
-    <img src="c_version/plots/iso_AO.png" alt="iso_AO Diagram" /><br>
-    <img src="c_version/plots/iso_BE.png" alt="iso_BE Diagram" /><br>
-    <img src="c_version/plots/iso_DE.png" alt="iso_DE Diagram" /><br>
-    <img src="c_version/plots/iso_MD.png" alt="iso_MD Diagram" /><br>
-    <img src="c_version/plots/iso_ZM.png" alt="iso_ZM Diagram" /><br>
-</div>
+
+| | |
+| --- | --- |
+| ![iso_BE Diagram](c_version/plots/iso_BE.png) | ![iso_AO Diagram](c_version/plots/iso_AO.png) |
+| ![iso_DE Diagram](c_version/plots/iso_DE.png) | ![iso_MD Diagram](c_version/plots/iso_MD.png) |
+| ![iso_ZM Diagram](c_version/plots/iso_ZM.png) |  |
