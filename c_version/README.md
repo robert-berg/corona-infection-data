@@ -1,5 +1,9 @@
 # C Version: Visualizing Corona Infection Data
 
+This subfolder contains the C implementation of the project.
+
+The program selects countries randomly for data analysis and visualization.
+
 ## Running the Program
 
 ```
