@@ -6,6 +6,6 @@ Countries can be chosen by editing the country codes in Chart.java
 
 | |
 | --- |
-| ![AR Diagram](java_version/output/AR.png) |
-| ![DE Diagram](java_version/output/DE.png) |
-| ![ES Diagram](java_version/output/ES.png) |
+| ![AR Diagram](output/AR.png) |
+| ![DE Diagram](output/DE.png) |
+| ![ES Diagram](output/ES.png) |
