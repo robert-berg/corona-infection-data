@@ -25,10 +25,8 @@ Alternatively, you can run the compiled program directly:
 ./coronaprogram
 ```
 
-<ul style="list-style-type: none;">
-    <li><img src="plots/iso_BE.png" alt="iso_BE Diagram" /></li>
-    <li><img src="plots/iso_AO.png" alt="iso_AO Diagram" /></li>
-    <li><img src="plots/iso_DE.png" alt="iso_DE Diagram" /></li>
-    <li><img src="plots/iso_MD.png" alt="iso_MD Diagram" /></li>
-    <li><img src="plots/iso_ZM.png" alt="iso_ZM Diagram" /></li>
-</ul>
+| | |
+| --- | --- |
+| ![iso_BE Diagram](plots/iso_BE.png) | ![iso_AO Diagram](plots/iso_AO.png) |
+| ![iso_DE Diagram](plots/iso_DE.png) | ![iso_MD Diagram](plots/iso_MD.png) |
+| ![iso_ZM Diagram](plots/iso_ZM.png) |  |
