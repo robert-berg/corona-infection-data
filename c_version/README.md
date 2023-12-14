@@ -26,9 +26,9 @@ Alternatively, you can run the compiled program directly:
 ```
 
 <ul style="list-style-type: none;">
-    <li><img src="c_version/plots/iso_BE.png" alt="iso_BE Diagram" /></li>
-    <li><img src="c_version/plots/iso_AO.png" alt="iso_AO Diagram" /></li>
-    <li><img src="c_version/plots/iso_DE.png" alt="iso_DE Diagram" /></li>
-    <li><img src="c_version/plots/iso_MD.png" alt="iso_MD Diagram" /></li>
-    <li><img src="c_version/plots/iso_ZM.png" alt="iso_ZM Diagram" /></li>
+    <li><img src="plots/iso_BE.png" alt="iso_BE Diagram" /></li>
+    <li><img src="plots/iso_AO.png" alt="iso_AO Diagram" /></li>
+    <li><img src="plots/iso_DE.png" alt="iso_DE Diagram" /></li>
+    <li><img src="plots/iso_MD.png" alt="iso_MD Diagram" /></li>
+    <li><img src="plots/iso_ZM.png" alt="iso_ZM Diagram" /></li>
 </ul>
