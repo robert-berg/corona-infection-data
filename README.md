@@ -11,7 +11,7 @@ This repository is divided into two versions:
 
 ## Example diagrams:
 
-### Java Version Diagrams
+### Java Version
 
 | |
 | --- |
@@ -20,7 +20,7 @@ This repository is divided into two versions:
 | ![ES Diagram](java_version/output/ES.png) |
 
 
-### C Version Diagrams
+### C Version
 
 | | |
 | --- | --- |
