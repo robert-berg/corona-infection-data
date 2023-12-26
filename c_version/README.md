@@ -1,8 +1,8 @@
 # C Version: Visualizing Corona Infection Data
 
-This subfolder contains the C implementation of the project.
+This folder contains the C implementation of the project.
 
-The program selects countries randomly for data analysis and visualization.
+The program selects countries randomly.
 
 ## Running the Program
 
@@ -18,8 +18,8 @@ wsl ./menu.sh
 
 This script presents a menu with the following options:
 
-1. Create Corona Infection Diagrams: Executes the coronaprogram to generate diagrams based on the data.
-2. Move PNG Files to Location: Allows you to specify a folder to move all generated PNG files into. This helps in organizing the output.
+1. Create Corona Infection Diagrams: Executes the program to generate diagrams based on the data.
+2. Move PNG Files to Location: Allows you to specify a folder to move all generated PNG files into. This helps organizing the output.
 3. Quit: Exits the script.
 
 
