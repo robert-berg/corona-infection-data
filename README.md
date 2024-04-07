@@ -5,8 +5,8 @@ Analyze and generate graphs based on the official WHO data in both C or Java.
 This repository is divided into two versions:
 
 <ul>
-    <li><a href="./c_version">c_version</a>: Contains the implementation of the project in C.</li>
-    <li><a href="./java_version">java_version</a>: Contains the implementation of the project in Java.</li>
+    <li><a href="./c_version">c_version</a></li>
+    <li><a href="./java_version">java_version</a></li>
 </ul>
 
 ## Example diagrams:
